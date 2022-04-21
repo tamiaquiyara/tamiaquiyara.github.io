@@ -1,0 +1,96 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp9063846.jpg");
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.header {
+    background-color: #01151E;
+    text-align: center;
+    height: 18em;
+    padding: 1em;
+    margin: 1em;
+}
+
+.header img {
+    height: 13em;
+    /* padding: 1em; */
+    /* margin: 1em; */
+}
+
+.content a {
+    /* margin: 1em; */
+    /* padding: 1em; */
+    padding: 0.4em;
+    width: 2em;
+    text-decoration: none;
+    color: white;
+}
+
+.content a:hover {
+    background-color : #022435;
+}
+
+.about {
+    background-color: #022435;
+    text-align:justify;
+    height: 10em;
+    margin: 1em;
+    padding: 1em;
+}
+
+.front-end {
+    background-color: #082D3B;
+    height: 10em;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.back-end {
+    background-color: #193847;
+    text-align: center;
+    height: 10em;
+    margin: 1em;
+    padding: 1em;
+}
+
+.footer {
+    background-color: #0A5368;
+    text-align: center;
+    height: 10em;
+    padding: 1em;
+    margin: 1em;
+}
+
+.footer a {
+    padding: 0.4em;
+    width: 2em;
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    background-color : #0b4453;
+}
+
+@media only screen and (max-width:426px) {
+
+    .header img {
+        height: 11em;
+    
+    }
+
+    .about {
+        background-color: #022435;
+        text-align:justify;
+        height: 17em;
+        margin: 1em;
+        padding: 1em;
+    }
+}
