@@ -12,7 +12,7 @@ h2 {
 .header {
     background-color: #01151E;
     text-align: center;
-    height: 18em;
+    height: 21em;
     padding: 1em;
     margin: 1em;
 }
@@ -39,7 +39,7 @@ h2 {
 .about {
     background-color: #022435;
     text-align:justify;
-    height: 10em;
+    height: 14em;
     margin: 1em;
     padding: 1em;
 }
@@ -63,7 +63,7 @@ h2 {
 .footer {
     background-color: #0A5368;
     text-align: center;
-    height: 10em;
+    height: 15em;
     padding: 1em;
     margin: 1em;
 }
